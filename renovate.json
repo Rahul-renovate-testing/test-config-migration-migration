@@ -1,4 +1,5 @@
 {
   "configMigration": true,
+  "prHourlyLimit": 10
   "extends": "config:base"
 }
