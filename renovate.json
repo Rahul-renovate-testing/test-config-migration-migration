@@ -1,3 +1,4 @@
 {
-  "configMigration": true
+  "configMigration": true,
+  "extends": "config:base"
 }
